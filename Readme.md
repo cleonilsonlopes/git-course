@@ -7,3 +7,5 @@ Para mais informações: [williamjusten.com.br](http://www.willianjusten.com.br)
 Mais uma alteração. Quer fazer uma doação?
 
 Nova alteração
+
+Botão paypal
